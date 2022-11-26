@@ -3,9 +3,13 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>_2_三大工厂</RootNamespace>
+    <RootNamespace>设计模式篇002_工厂方法模式</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SqlSugarCore" Version="5.1.3.34" />
+  </ItemGroup>
 
 </Project>
